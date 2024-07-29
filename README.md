@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/76mHqLr5)
-
 # Description
 1. Any command before a '&' symbol runs in background and any command before ';' symbol runs in foreground and command without any symbol in front of it runs in foreground.
 2. 'warp' command can be used to change directory just as cd command in linux terminal.
